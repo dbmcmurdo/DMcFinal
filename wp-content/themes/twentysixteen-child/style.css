@@ -16,10 +16,12 @@ Version: 0.1.0
     font-size: 1rem;
 }
   
-.widget, .navigation, .nav-next {
+navigation, .widget  {
     border-top: 2px solid #D0D0D0;
 }
 
 .navigation {
     border-bottom: 2px solid #D0D0D0;
 }
+
+.site-info { display: none; }
